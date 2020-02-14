@@ -1,0 +1,22 @@
+{
+  "name": "brain",
+  "version": "1.0.0",
+  "description": "Brain JS ======== A very basic project exploring machine learning and neural networks using Brain.js - a machine learning library for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinBalejko/exploring-brain-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinBalejko/exploring-brain-js/issues"
+  },
+  "homepage": "https://github.com/MarcinBalejko/exploring-brain-js#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-alpha.12"
+  }
+}
